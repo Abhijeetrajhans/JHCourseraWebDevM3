@@ -1,0 +1,56 @@
+/* Add your custom styles here */
+
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.navbar {
+    background-color: #333;
+    border: none;
+}
+
+.navbar-brand {
+    color: #fff;
+    font-size: 20px;
+}
+
+.navbar-toggle {
+    border: none;
+}
+
+.navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+
+.navbar-collapse {
+    border: none;
+}
+
+.navbar-nav > li > a {
+    color: #333;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+.container-fluid {
+    background-color: #eee;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.row {
+    margin-top: 20px;
+}
+
+.col-xs-12 {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+}
